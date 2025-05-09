@@ -16,13 +16,13 @@ A fully responsive portfolio website showcasing my skills and projects. 🚀
 
 To run the portfolio locally, follow these steps:
 
-1. 📥 Clone this repository: `https://github.com/AkashKompelly/Responsive_Portfolio.git`
+1. 📥 Clone this repository: 
 2. 📂 Navigate to the project directory: `cd Responsive_Dashbord`
 3. 🌐 Open the `index.html` file in your preferred web browser.
 
 ## 🚀 Deployment
 
-The portfolio is deployed on Netlify. Visit the live version [here](https://responsive-dashbord.netlify.app/). 🌟
+The portfolio is deployed 
 
 ## 🤝 Contributing
 
